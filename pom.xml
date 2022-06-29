@@ -24,7 +24,7 @@
 
 <validator.version>6.0.10.Final</validator.version>
 
-<poi.version>3.9</poi.version>
+<poi.version>4.1.1</poi.version>
 
 <jstl.version>1.2</jstl.version>
 
